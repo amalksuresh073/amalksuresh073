@@ -1,7 +1,6 @@
-- 👋 Hi, I’m amal
-- 👀 I’m interested in ! coding 
-- 🌱 I’m currently learning how to code less
-- 💞️ I’m looking to collaborate on !
+- 👋 Hi, I’m amal!
+- 👀 
+- 🌱 
 - 📫 How to reach me :just ping @ amalksuresh073@gmail.com
 
 <!---
